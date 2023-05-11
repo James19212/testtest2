@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-    
+    print("hello")
         imageView.image = UIImage(named: "Bank3")
         
     }
